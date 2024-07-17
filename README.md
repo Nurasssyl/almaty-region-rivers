@@ -15,3 +15,8 @@ This visualization can be used for:
 - Identification of flood zones and management of water resources.
 - Teaching geography and ecology.
 - Planning outdoor activities such as fishing and kayaking.
+
+
+# Aral-Syrdariya basin
+![image](https://github.com/user-attachments/assets/f607f4f2-2379-4a96-95eb-adbc45fb6560)
+
